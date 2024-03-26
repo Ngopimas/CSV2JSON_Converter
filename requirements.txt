@@ -1,2 +1,2 @@
 csv2json==0.2.2
-onecode==0.1.0
+git+https://github.com/deeplime-io/onecode.git@dev/1.x
